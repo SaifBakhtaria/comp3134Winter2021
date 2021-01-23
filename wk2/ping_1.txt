@@ -1,0 +1,3 @@
+--- SaifBakhtaria ping statistics ---
+46 packets transmitted, 46 received, 0% packet loss, time 46067ms
+rtt min/avg/max/mdev = 0.032/0.057/0.075/0.007 ms

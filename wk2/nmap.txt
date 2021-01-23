@@ -1,0 +1,45 @@
+root@SaifBakhtaria:~# nmap SaifBakhtaria
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 05:26 UTC
+Nmap scan report for SaifBakhtaria (127.0.1.1)
+Host is up (0.0000060s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.10 seconds
+
+root@SaifBakhtaria:~# nmap -p 80 SaifBakhtaria
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 05:26 UTC
+Nmap scan report for SaifBakhtaria (127.0.1.1)
+Host is up (0.000081s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.07 seconds
+
+root@SaifBakhtaria:~# nmap -p 22-80 SaifBakhtaria
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 05:29 UTC
+Nmap scan report for SaifBakhtaria (127.0.1.1)
+Host is up (0.0000070s latency).
+Not shown: 56 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.06 seconds
+
+root@SaifBakhtaria:~# nmap -F SaifBakhtaria
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 05:30 UTC
+Nmap scan report for SaifBakhtaria (127.0.1.1)
+Host is up (0.0000080s latency).
+Not shown: 97 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.06 seconds

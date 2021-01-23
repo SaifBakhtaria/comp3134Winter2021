@@ -1,0 +1,3 @@
+root@SaifBakhtaria:~# traceroute SaifBakhtaria
+traceroute to SaifBakhtaria (127.0.1.1), 30 hops max, 60 byte packets
+ 1  SaifBakhtaria (127.0.1.1)  0.031 ms  0.007 ms  0.006 ms

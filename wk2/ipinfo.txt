@@ -1,0 +1,20 @@
+1. Domain name: www.zara.ca 
+   IpAddress: ww.zara.com./23.54.48.196
+   GeoLocation: United States Of America, Washington, Seattle
+
+2. Domain name: www.adidas.ca  
+   IpAddress: 11235.a.akamaiedge.net./104.81.190.144
+   GeoLocation: United States Of America, Washington, Seattle
+
+3. Domain name: www.indeed.ca
+   IpAddress: mericas.dyn.indeed.com./169.44.159.200
+   GeoLocation: United States Of America, Texas, Houston
+
+4. Domain name: www.hollister.ca
+   IpAddress: ww.lb1.hollister.ca./204.62.195.64
+   GeoLocation: United States Of America, Illinois, Waukegan
+
+
+5. Domain name: www.univamp.io  
+   IpAddress: ww.univamp.io./104.26.10.68
+   GeoLocation: United States Of America, California, San Francisco
