@@ -1,0 +1,125 @@
+        0x00a0:  9eba e792 fdff 942b f51a 14e8 0893 2836  .......+......(6
+        0x00b0:  654d 35e1 b795 9350 bf41 780f 6ca2 72cd  eM5....P.Ax.l.r.
+        0x00c0:  789b 03ed c511 19fc 01cd 13cd 31c0 3960  x...........1.9`
+        0x00d0:  e110 7dbc e95e 4741 20d1 a933 25a0 35a3  ..}..^GA...3%.5.
+        0x00e0:  eabb 6bcd 3c2c 011d c6bf 1e82 5bd5 2be2  ..k.<,......[.+.
+        0x00f0:  7cdb ed60 d45a b6f8 c1ff 1416 51ba bc3e  |..`.Z......Q..>
+        0x0100:  30c0 5342 dd98 fa22 8d41 2920 1eca 3b64  0.SB...".A)...;d
+        0x0110:  6534 8094 633d 6286 8391 c67e 8e5a e2ec  e4..c=b....~.Z..
+        0x0120:  064c c421 31d1 e327 d4d4 fdf5 778a 4d28  .L.!1..'....w.M(
+        0x0130:  7cf9 2c81 0fec 818d 90bd                 |.,.......
+16:53:31.534653 IP 143.110.210.112.ssh > cpef81d0faec973-cmf81d0faec970.cpe.net.cable.rogers.com.59246: Flags [P.], seq 5109900:5110720, ack 2305, win 501, length 820
+        0x0000:  fe00 0000 0101 32ab 31c7 66dd 0800 4510  ......2.1.f...E.
+        0x0010:  035c ba5f 4000 4006 ac6f 8f6e d270 63ee  .\._@.@..o.n.pc.
+        0x0020:  0af0 0016 e76e ab22 20d6 f23d 1fb9 5018  .....n."...=..P.
+        0x0030:  01f5 d40b 0000 b2a8 10ff 0cce 674d c23f  ............gM.?
+        0x0040:  d231 2436 9852 a776 bce4 ac97 800c 7124  .1$6.R.v......q$
+        0x0050:  bef2 2cba 270a 0fae 2447 8fb6 cb55 8108  ..,.'...$G...U..
+        0x0060:  4c8b a731 3cb3 1f7f 44ec 445c 986b 5bba  L..1<...D.D\.k[.
+        0x0070:  5a45 ed6e cc5f 559f 9342 229f b4e2 7e3f  ZE.n._U..B"...~?
+        0x0080:  6401 04be 94ba 2308 b055 0592 2587 7275  d.....#..U..%.ru
+        0x0090:  e2e5 962c 843b b50c 6c47 9d40 0744 5bbe  ...,.;..lG.@.D[.
+        0x00a0:  cc25 0fad becf 1133 9d0d 97ef 3e9d 4a20  .%.....3....>.J.
+        0x00b0:  182c 1faf 55f6 cb68 0b2c 0f57 619d 3010  .,..U..h.,.Wa.0.
+        0x00c0:  66cd 67ad f102 4e31 8695 1804 54e4 e017  f.g...N1....T...
+        0x00d0:  b2f4 06da ba7e b7d5 984a 74d6 0636 484d  .....~...Jt..6HM
+        0x00e0:  5ae8 bc38 fe67 9872 ccd4 f3e9 8725 26cb  Z..8.g.r.....%&.
+        0x00f0:  964e 9ebd fd1d da58 85a3 eabe 9fcc ae90  .N.....X........
+        0x0100:  6ab7 a61f 0adf aa1a d6da 7dc5 198c 6d14  j.........}...m.
+        0x0110:  82ec 1b89 512c 0d4e 0280 8712 ad36 55b9  ....Q,.N.....6U.
+        0x0120:  a95e 15e7 ed4c b992 addb d4bf 6ec0 a71a  .^...L......n...
+        0x0130:  71ae 3f72 8334 7d0f 9979 a4fd c074 ee41  q.?r.4}..y...t.A
+        0x0140:  8930 d389 3548 8ac2 6953 f63b 7892 bfc7  .0..5H..iS.;x...
+        0x0150:  6d68 937c a6f3 4447 1260 29d5 8004 b471  mh.|..DG.`)....q
+        0x0160:  c9ff 05a0 f20d 1fd0 a3fd 60ed 3baf c941  ..........`.;..A
+        0x0170:  9536 ccf2 93ca a044 25cc df17 f3ab be80  .6.....D%.......
+        0x0180:  a8e6 34d1 7c0b 3fcd 3a1f 6dd5 9705 58e7  ..4.|.?.:.m...X.
+        0x0190:  016d ac5f c5db dbb1 c51a bb54 89ff 84b9  .m._.......T....
+        0x01a0:  6a37 0ef3 1b3c c698 2243 1472 229a b331  j7...<.."C.r"..1
+        0x01b0:  18b0 2b9d a2e6 811a c5a2 5253 1b12 01c3  ..+.......RS....
+        0x01c0:  2c9a 97d4 b4d2 4032 cccb 84e2 9bc7 39e0  ,.....@2......9.
+        0x01d0:  2afc 8f0e 4347 78dc a91b 1432 3646 c142  *...CGx....26F.B
+        0x01e0:  6193 925f 6177 b17d 1aa8 aff3 7776 f62d  a.._aw.}....wv.-
+        0x01f0:  d95b 592d 3f5f 0795 1057 1083 ea8c 492e  .[Y-?_...W....I.
+        0x0200:  2a4a f046 6ce7 7c5a 82e1 dc81 2f85 7be7  *J.Fl.|Z..../.{.
+        0x0210:  b72d 466d e8aa a9e0 b5de 2aed 8644 72ff  .-Fm......*..Dr.
+        0x0220:  15e4 ab71 53b1 facb 4d3d e729 6121 64e4  ...qS...M=.)a!d.
+        0x0230:  9338 d967 d977 be6f ba35 5ba2 5b16 d815  .8.g.w.o.5[.[...
+        0x0240:  cdf5 7c06 28c6 29fb 01b1 4ba8 2255 77a2  ..|.(.)...K."Uw.
+        0x0250:  0d4c 852e 6531 8da6 1193 8a33 f0fe 5ce6  .L..e1.....3..\.
+        0x0260:  e9f4 39ea 25db 7588 4be3 d463 2e40 9a4c  ..9.%.u.K..c.@.L
+        0x0270:  a766 ca2b 9908 130b 4c9c 23cb bce5 feb7  .f.+....L.#.....
+        0x0280:  6edd b7d5 b5ad 8076 3906 9931 813f 3389  n......v9..1.?3.
+        0x0290:  4dac 1451 3b8f b83a 7005 47b8 c832 6d0e  M..Q;..:p.G..2m.
+        0x02a0:  6251 8fc3 4086 8576 a96a 8e76 50ab 0892  bQ..@..v.j.vP...
+        0x02b0:  0a08 8a7c e000 23cc 049b a3f3 ef29 5e4d  ...|..#......)^M
+        0x02c0:  0676 66b5 d19b beb6 922f 3ffd 213a eb5c  .vf....../?.!:.\
+        0x02d0:  8b72 29a3 7105 86df 256c 50c8 d0e5 a6f5  .r).q...%lP.....
+        0x02e0:  41dc 4f35 33ed 8ea5 de43 a9fb 52d0 1d9a  A.O53....C..R...
+        0x02f0:  84f4 5f40 66dc af52 e221 5c76 cb51 5e16  .._@f..R.!\v.Q^.
+        0x0300:  3ff9 3abd aadf 9854 57fd c2f5 66ff 4978  ?.:....TW...f.Ix
+        0x0310:  3a84 e39a 1834 e4ea 788c 30e4 86ff a683  :....4..x.0.....
+        0x0320:  b77e 53a2 4b18 cfe2 30b6 dd67 e624 3af4  .~S.K...0..g.$:.
+        0x0330:  7f1b 3cce ba4a 6e31 bab7 3cb8 714d d1a5  ..<..Jn1..<.qM..
+        0x0340:  6b6c d761 8847 676e a401 8891 7fec 1c9f  kl.a.Ggn........
+        0x0350:  8494 8282 e3a8 e001 a02e fa84 ea26 cff8  .............&..
+        0x0360:  dbab a008 3a55 545c ead8                 ....:UT\..
+16:53:31.535757 IP 143.110.210.112.ssh > cpef81d0faec973-cmf81d0faec970.cpe.net.cable.rogers.com.59246: Flags [P.], seq 5112772:5113248, ack 2305, win 501, length 476
+        0x0000:  fe00 0000 0101 32ab 31c7 66dd 0800 4510  ......2.1.f...E.
+        0x0010:  0204 ba67 4000 4006 adbf 8f6e d270 63ee  ...g@.@....n.pc.
+        0x0020:  0af0 0016 e76e ab22 2c0e f23d 1fb9 5018  .....n.",..=..P.
+        0x0030:  01f5 d2b3 0000 e82b f67e 5527 f744 4e3e  .......+.~U'.DN>
+        0x0040:  5758 4df2 aeb0 ee0a 054e d6d3 c10e 6859  WXM......N....hY
+        0x0050:  5cb5 8ca8 855a 4562 e724 fe18 3ce8 fe32  \....ZEb.$..<..2
+        0x0060:  d77b 6aee 97c0 d7d8 14b7 693a d689 4e91  .{j.......i:..N.
+        0x0070:  1d30 a46b 7b89 9c54 a316 0d6f b2f2 0bb7  .0.k{..T...o....
+        0x0080:  194e d9cb 9eb4 88aa e849 065c 53e1 d541  .N.......I.\S..A
+        0x0090:  ece1 2bb7 1edb 31d7 717a ff71 9cc5 2c77  ..+...1.qz.q..,w
+        0x00a0:  128d 868c c95a 589c 4ebf 9a4e 9044 6636  .....ZX.N..N.Df6
+        0x00b0:  ec70 731d 12a7 616f faa1 82ac 54b0 6571  .ps...ao....T.eq
+        0x00c0:  3c09 ef7a 0e0b 74dc dfe0 77cb a734 bcc9  <..z..t...w..4..
+        0x00d0:  f9d7 bf33 09a9 f1ad fa96 842e dc5f 1633  ...3........._.3
+        0x00e0:  a678 321f 6f2c 8200 32f0 80f4 28c0 5a37  .x2.o,..2...(.Z7
+        0x00f0:  535a 7859 3abf e92e 317b aa31 e281 1448  SZxY:...1{.1...H
+        0x0100:  647f ea8d aa3f 10d7 4765 563c 73df f929  d....?..GeV<s..)
+        0x0110:  145f 2b2c de4a fef8 836d 504e c8fe 9cd4  ._+,.J...mPN....
+        0x0120:  6d2f 72fb 301f 4519 8127 aa8d 6294 e511  m/r.0.E..'..b...
+        0x0130:  b26e 293c fbdb c0aa acd9 a268 90ef a56b  .n)<.......h...k
+        0x0140:  81f5 f4e7 ee99 b9b0 35ce b392 a06f 541b  ........5....oT.
+        0x0150:  b397 2d6c ae71 8b5d ac5a 1fd0 ba50 b8c1  ..-l.q.].Z...P..
+        0x0160:  9e81 c0bb c0f7 41b7 e9dd 5c63 0e03 0b8e  ......A...\c....
+        0x0170:  8915 abf2 5cfd a3f9 ddb6 2969 0e64 b21e  ....\.....)i.d..
+        0x0180:  8f9d 6768 55a7 8eb2 7216 707c 7961 35cf  ..ghU...r.p|ya5.
+        0x0190:  8ec9 0d53 48ab 54a9 4d67 139c e105 1aa9  ...SH.T.Mg......
+        0x01a0:  e066 67b6 0026 1524 aa3f 8d92 e9fd be5c  .fg..&.$.?.....\
+        0x01b0:  3a86 5125 2f9c 2ab5 8253 38ac 6c89 fdea  :.Q%/.*..S8.l...
+        0x01c0:  184f dfeb 8e4e 3ba2 1a1d cece 3622 f6ec  .O...N;.....6"..
+        0x01d0:  1e9b 1546 4b2f a90a 4c05 9a21 dcf8 9962  ...FK/..L..!...b
+        0x01e0:  dddc 89d2 d6b9 0dc0 08ce c3ab eec7 0f04  ................
+        0x01f0:  018b 3073 58ce 4e36 2a86 74e5 88d7 9f63  ..0sX.N6*.t....c
+        0x0200:  51a0 51e2 695e ac98 3e53 dfbe 65e8 cba7  Q.Q.i^..>S..e...
+        0x0210:  2300                                     #.
+16:53:31.544615 IP cpef81d0faec973-cmf81d0faec970.cpe.net.cable.rogers.com.59246 > 143.110.210.112.ssh: Flags [.], ack 5082804, win 2400, length 0
+        0x0000:  32ab 31c7 66dd fe00 0000 0101 0800 4500  2.1.f.........E.
+        0x0010:  0028 21cb 4000 7906 0f48 63ee 0af0 8f6e  .(!.@.y..Hc....n
+        0x0020:  d270 e76e 0016 f23d 1fb9 ab21 b6fe 5010  .p.n...=...!..P.
+        0x0030:  0960 7a1b 0000 0000                      .`z.....
+16:53:31.544662 IP cpef81d0faec973-cmf81d0faec970.cpe.net.cable.rogers.com.59246 > 143.110.210.112.ssh: Flags [.], ack 5082904, win 2400, length 0
+        0x0000:  32ab 31c7 66dd fe00 0000 0101 0800 4500  2.1.f.........E.
+        0x0010:  0028 21cc 4000 7906 0f47 63ee 0af0 8f6e  .(!.@.y..Gc....n
+        0x0020:  d270 e76e 0016 f23d 1fb9 ab21 b762 5010  .p.n...=...!.bP.
+        0x0030:  0960 79b7 0000 0000                      .`y.....
+16:53:31.544670 IP cpef81d0faec973-cmf81d0faec970.cpe.net.cable.rogers.com.59246 > 143.110.210.112.ssh: Flags [.], ack 5083112, win 2399, length 0
+        0x0000:  32ab 31c7 66dd fe00 0000 0101 0800 4500  2.1.f.........E.
+        0x0010:  0028 21cd 4000 7906 0f46 63ee 0af0 8f6e  .(!.@.y..Fc....n
+        0x0020:  d270 e76e 0016 f23d 1fb9 ab21 b832 5010  .p.n...=...!.2P.
+^C      0x0030:  095f 78e8 0000 0000                      ._x.....
+
+1896 packets captured
+22662 packets received by filter
+20735 packets dropped by kernel
+root@SaifBakhtaria:~# tcp -w 0001.pcap -i eth0
+
+Command 'tcp' not found, but there are 29 similar ones.
+
+root@SaifBakhtaria:~#                             
